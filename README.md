@@ -72,9 +72,15 @@ Following the soft launch, we conducted a retrospective to analyse the product's
 The decision-making process throughout the project involved aligning product principles with user needs, considering technical feasibility, and prioritising features based on impact and effort. Challenges arose from balancing user demands, addressing technical constraints, and optimising the product for a diverse user base. However, with a collaborative effort and an iterative approach, we successfully delivered the redesigned filter feature, improving user engagement and satisfaction with Aperture. The continuous improvement cycle ensures that we will continue to evolve the product to meet user expectations and market demands.
 
 
-### Achievements
+## MakeYourMaps - Product Management Case Study
 
-[Key achievements and outcomes of the project, such as improvements in user engagement and satisfaction.]
+-This project is a case study from my Product Management Certification course with Careerfoundry.
+-Timeframe: February - April 2024
+-My Role: Product Manager
+-Tools Used: Mirro, Google Suite, Canva 
+
+
+
 
 
 - [Contact](contact.md)
