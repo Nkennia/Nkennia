@@ -23,10 +23,6 @@ To download my full professional CV, click the link below.
 -Communication Skills
 -Leadership
 
-## Contact Me
-
-Feel free to reach out to me at [B.A.Onwuegbu@gmail.com](mailto:B.A.Onwuegbu@gmail.com) or connect with me on [LinkedIn]((https://www.linkedin.com/in/brianonwuegbu/)).
-
 
 - [Projects](projects.md)
 - # Projects
@@ -53,6 +49,6 @@ Feel free to reach out to me at [B.A.Onwuegbu@gmail.com](mailto:B.A.Onwuegbu@gma
 - [Contact](contact.md)
 - # Contact Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: [B.A.Onwuegbu@gmail.com](mailto:B.A.Onwuegbu@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/brianonwuegbu/)
 
