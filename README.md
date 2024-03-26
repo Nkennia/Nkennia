@@ -1,5 +1,4 @@
 ### Navigation
-- [About Me](about.md)
 - # About Me
 
 Hello, I'm Brian 'Nnia, I am a highly experienced business leader with a track record of driving strategic growth and operational efficiency. My diverse experience across sectors has equipped me with a unique set of skills, making me a versatile and valuable asset to any organization am a strong collaborator and thrive in cross-functional team environments.
