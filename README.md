@@ -12,11 +12,16 @@ To download my full professional CV, click the link below.
 
 ## Skills
 
-- Product Strategy
-- User Research
-- Agile Methodologies
-- UI/UX Design
-- Data Analysis
+-Product Strategy
+-Data Analysis
+-Agile Methodologies
+-User Experience (UX)
+-Project Management
+-Market Research
+-Risk Management
+-Business Analysis
+-Communication Skills
+-Leadership
 
 ## Contact Me
 
