@@ -6,7 +6,7 @@ Hello, I'm Brian 'Nnia, I am a highly experienced business leader with a track r
 ## Experience
 Want to see what I have been up to?
 To download my full professional CV, click the link below.
-[Brian Onwuegbu Resume for Product Manager.pdf]
+[(https://github.com/Nkennia/Nkennia/blob/fe126f1d3d2efac7f01b0af72acf47cae0fee3b7/Brian%20Onwuegbu%20Resume%20for%20Product%20Manager.pdf)]
 
 
 
