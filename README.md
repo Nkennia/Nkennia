@@ -25,7 +25,7 @@ To download my full professional CV, click the link below.
 
 ## Contact Me
 
-Feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to reach out to me at [B.A.Onwuegbu@gmail.com](mailto:B.A.Onwuegbu@gmail.com) or connect with me on [LinkedIn]((https://www.linkedin.com/in/brianonwuegbu/)).
 
 
 - [Projects](projects.md)
